@@ -2,7 +2,7 @@
 
 This is a simple Travel Management System implemented in C++. The program allows users to search for flight fares between different cities, book tickets, and manage user accounts. It utilizes the Bellman-Ford algorithm to find the minimum flight fares between cities and offers a console-based interface for interacting with the system.
 
-Table of Contents
+#Table of Contents
 
 Introduction
 Features
