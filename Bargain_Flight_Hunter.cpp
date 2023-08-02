@@ -129,7 +129,7 @@ class inputmodule{
 	string username,password;
 	void user_input(string userchoice[]){
 		system("CLS");
-		cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+		cout<<"\n\n                                             ****************************        Welcome to Bargain Flight Hunter       **************************"<<endl;
 		cout<<endl;
 		cout<<"                 *****************************************"<<endl;
 		cout<<"                 Enter Your City:";
@@ -143,7 +143,7 @@ class inputmodule{
 	}
 	string login(){
 		while(1){
-		cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+		cout<<"\n\n                                             ****************************        Welcome to Bargain Flight Hunter      **************************"<<endl;
 		cout<<"\n\n\n\n";
 		cout<<"                 ENTER                     "<<endl;
 		cout<<"                 *****************************************"<<endl;
@@ -159,7 +159,7 @@ class inputmodule{
 			 switch(ch){
 				case 1:
 					system("CLS");
-					cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+					cout<<"\n\n                                             ****************************       Welcome to Bargain Flight Hunter    **************************"<<endl;
 					cout<<endl;
 					cout<<"                 *****************************************"<<endl;
 					cout<<"                 Enter Username:";
@@ -172,7 +172,7 @@ class inputmodule{
 					break;
 				case 2:
 					system("CLS");
-					cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+					cout<<"\n\n                                             ****************************         Welcome to Bargain Flight Hunter      **************************"<<endl;
 					cout<<endl;
 					cout<<"                 *****************************************"<<endl;
 					cout<<"                 Enter Username:";
@@ -201,7 +201,7 @@ class outputmodule{
 	string source,destination;
 	void initial(){
 		system("CLS");
-		cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+		cout<<"\n\n                                             ****************************        Welcome to Bargain Flight Hunter      **************************"<<endl;
 		cout<<"\n\n";
 		cout<<"                 ***************************"<<endl;
 		cout<<"                 *  Facilities Available:  *"<<endl;
@@ -218,7 +218,7 @@ class outputmodule{
 		datamodule o;
 		cout<<endl;
 		system("CLS");
-		cout<<"\n\n                                             ****************************        Welcome to Travel Management System       **************************"<<endl;
+		cout<<"\n\n                                             ****************************         Welcome to Bargain Flight Hunter      **************************"<<endl;
 		cout<<"\n\n";
 		cout<<"                 The listed cities are:"<<endl;
 		cout<<"                 *****************************************"<<endl;
