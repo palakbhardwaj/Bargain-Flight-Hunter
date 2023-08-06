@@ -5,6 +5,7 @@
 #include<algorithm>
 #define infinity 999999999
 
+
 using namespace std;
 
 struct store
