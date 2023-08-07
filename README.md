@@ -16,6 +16,7 @@ Contributing
 
 The Travel Management System is designed to help users find the best flight fares between various cities and book their tickets. It includes features like displaying the list of available cities, calculating the minimum fares using the Bellman-Ford algorithm, and handling user account functionalities, including login and account creation.
 
+
 #Features
 
 
@@ -40,6 +41,7 @@ Navigate to the project directory and open the source code file "travel_manageme
 Compile the C++ code using a C++ compiler that supports C++11 or higher.
 Run the compiled executable to start the Travel Management System.
 Follow the on-screen instructions to interact with the program, such as choosing the source and destination cities, booking tickets, and managing user accounts.
+
 
 #Contributing
 
